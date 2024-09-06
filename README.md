@@ -124,6 +124,11 @@ The CNN model achieved high accuracy in classifying wafer defects. The key resul
 
 The model was able to successfully differentiate between different types of defects with high precision and recall.
 
+## Acknowledgments
+
+I would like to extend my gratitude to **Ganesh** for his guidance and support throughout the project. 
+
+
 ## Conclusion
 
 This project demonstrates the effectiveness of Convolutional Neural Networks in detecting and classifying defects in wafer images. By automating defect classification, the model can help semiconductor manufacturers identify faulty wafers early in the production process, potentially saving costs and improving product yield.
