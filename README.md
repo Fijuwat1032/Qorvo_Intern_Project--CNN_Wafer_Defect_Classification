@@ -6,6 +6,9 @@ This project focuses on the use of **Convolutional Neural Networks (CNN)** for t
 
 The goal of this project is to develop a CNN model that can accurately classify different types of wafer defects using image data. The project leverages deep learning techniques, specifically CNNs, which are well-suited for image classification tasks due to their ability to automatically extract and learn features from images.
 
+## Disclaimer
+**Due to confidentiality reasons, all data displayed in the repository is fake, and all passwords and usernames have been removed.**
+
 ## Table of Contents
 - [Project Description](#project-description)
 - [Dataset Information](#dataset-information)
